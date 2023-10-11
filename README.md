@@ -1,0 +1,2 @@
+# House-Price-Prediction-Model
+A house price prediction model using linear regression is a machine learning model that predicts the price of a house based on various features of the house and its surroundings. Linear regression is a statistical method that models the relationship between a dependent variable (in this case, house price) and one or more independent variables (the features of the house and its surroundings).
